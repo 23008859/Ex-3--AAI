@@ -1,5 +1,5 @@
 <H5> Name :ROSHINI S</H5>
-<H5>Register No.: 2122223230174</H5>
+<H5>Register No.: 212223230174</H5>
 <H5> Experiment 3 </H5>
 <H5> DATE:04/11/24 /H5>
 <H1 align-item="center"> Implementation of Approximate Inference in Bayesian Networks </H1>
